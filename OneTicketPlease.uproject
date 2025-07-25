@@ -256,5 +256,8 @@
 			"Name": "ChangelistReview",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
